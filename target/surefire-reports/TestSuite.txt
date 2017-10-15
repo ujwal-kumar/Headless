@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 71.984 s <<< FAILURE! - in TestSuite
+executing(com.pack.home.TestExecution.TestRun)  Time elapsed: 67.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.pack.home.TestExecution.TestRun.executing(TestRun.java:20)
+
